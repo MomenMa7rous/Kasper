@@ -896,6 +896,7 @@ header .container nav i.toggle-menu{
     display: block;
     font-size: 18px;
     margin-bottom: 10px;
+    text-transform: uppercase;
 }
 
 .skills .container .our-skills .os-content > .skill > span + .progress-bar{
@@ -1167,6 +1168,7 @@ header .container nav i.toggle-menu{
     font-weight: 600;
     cursor: pointer;
     transition: background .3s;
+    text-transform: uppercase;
 }
 
 .subscribe .container form input[type="submit"]:hover{
@@ -1243,6 +1245,7 @@ header .container nav i.toggle-menu{
     font-weight: 500;
     font-size: 23px;
     margin-bottom: 20px;
+    text-transform: uppercase;
 }
 
 .contact .container .contact-content .info .phone{
